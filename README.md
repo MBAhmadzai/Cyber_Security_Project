@@ -38,10 +38,4 @@ Run the main application:
 python main.py
 ```
 
-## Contributors
-- [Your Name]
-- [Other Contributors]
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
